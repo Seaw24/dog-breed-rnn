@@ -1,5 +1,3 @@
-Looking at your notebook file, I can see there are some issues with the current implementation that need to be addressed in the README. Here's an updated version that reflects the actual state of your project and provides guidance for improvement:
-
 # 🐕 Dog Breed Classification with Neural Network from Scratch
 
 A comprehensive implementation of a **multi-class image classifier** built entirely from scratch using only NumPy. This project demonstrates the complete machine learning pipeline for classifying dog breed images using a 3-layer neural network.
